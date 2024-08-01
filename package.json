@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "龟兔赛跑.js",
+  "type": "module",
+  "scripts": {
+    "test": "node 龟兔赛跑.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^1.6.0"
+  }
+}
